@@ -1,0 +1,7 @@
+.todo-item {
+    background: #f4f4f4;
+    padding: 10px;
+    text-decoration: line-through;
+    border-bottom: 1px #ccc solid;
+}
+
